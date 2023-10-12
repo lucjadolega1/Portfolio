@@ -1,0 +1,187 @@
+/* Styles for Lucja Dolega's Web Pages */
+/* Started on 7/1/2022 */
+
+
+/* Styles for general layout of index.html */
+
+body {
+background-color: #c5d9ed;
+width:90%;
+margin-right: auto;
+margin-left:auto;
+}
+
+img {
+	
+	max-width: 100%;
+	
+}
+.banner1 {
+	width: 100%;
+	margin-right:auto;
+	margin-left: auto;
+}
+
+header nav ul li {
+	display: inline-block;
+	float: none;
+	font-size: 2.1em;
+	padding: 0.5em;
+}
+	
+header nav a {
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+}
+		
+h1, h2, h3 {
+	text-align: center;
+}
+	
+h1 {
+	font-size: 1.7em;
+}
+	
+#social-media, footer p {
+	text-align: center;
+}
+	
+figure {
+	width: 100%;
+	margin-right:auto;
+	margin-left: auto;
+	padding-bottom: 2em;
+}
+	
+header {
+	text-align: center;
+}
+	
+aside, .degrees {
+	float:right;
+	width: 41%;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 1.3em;
+	text-align: justify;
+	padding-right: 3em;
+}
+	
+section {
+	display: center;
+	float: left;
+	width: 45%;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 1.3em;
+	text-align: justify;
+	padding-right: 3em;	
+	padding-left: 2em;
+}
+.career-objective {
+	float: left;
+}
+	
+#social-media {
+	width: 100%;
+	float: left;
+	margin-right: auto;
+	margin-left: auto;
+}
+	
+header nav {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #06446C;
+}
+
+/*Styles for about.html page */
+.intro {
+	display: block;
+	
+}
+.mypicture {
+	float: left;
+	padding-right: 3em;
+}
+
+#social-media-1, .copyright {
+	width: 100%;
+	float: left;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#media {
+	text-align: center;
+}
+
+.intro {
+	width:65%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/*Styles for contact page */
+.contact-info {
+	font-size: 1.6em;
+	float: right;
+	width: 45%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 1em;
+	
+}
+
+form {
+	font-size: 1.7em;
+	width: 40%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.prompt {
+	font-size: 1.7em;
+	width: 40%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.contact-me {
+	text-align: center;
+	font-size: 2.3em;
+	font-weight: bold;
+}
+
+/*Styles for htmlcss page */
+.webpage-intro {
+	font-size: 1.7em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.screen {
+position: relative;
+width:80%;
+margin-right: auto;
+margin-left:auto;
+top:0;
+left:0;
+
+}
+.cookingvideo {
+	position: absolute;
+	width:60%;
+	margin-right: auto;
+	margin-left:auto;
+	top:236px;
+	left: 332px;
+}
+
+main {
+		width: 100%;
+	margin-right:auto;
+	margin-left: auto;
+}
